@@ -8,13 +8,14 @@ Complete the first three parts: Introduction + Inserting items + Deleting items 
 * Inserting Items: https://leetcode.com/explore/featured/card/fun-with-arrays/525/inserting-items-into-an-array/
 * Deleting Items: https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/ 
 
-``` Note: Just go through the link(s), of your preferred language. ```
+``` Note: Just go through the link(s), of your preferred language. ```    
+The links will browse you through the programming aspects of 1-D arrays:-    
+* C++ : https://www.programiz.com/cpp-programming/arrays     
+* Java: https://www.programiz.com/java-programming/arrays     
+* Python:      
+    * https://pynative.com/python-accept-list-input-from-user/   
+    * https://www.w3schools.com/python/python_arrays.asp 
 
-C++ : https://www.programiz.com/cpp-programming/arrays 
-Java: https://www.programiz.com/java-programming/arrays  
-Python: https://pynative.com/python-accept-list-input-from-user/ , 
-    https:// www.w3schools.com/python/python_arrays.asp 
-The above links will browse you through the programming aspects of 1-D arrays.
 
 
 # DAY-2
