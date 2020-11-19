@@ -3,18 +3,20 @@
 
 ### Topic: Arrays 
 
-Complete the first three parts: introduction + inserting items + deleting items (in your preferred language)
-https://leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/
-https://leetcode.com/explore/featured/card/fun-with-arrays/525/inserting-items-into-an-array/
-https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/ 
+Complete the first three parts: Introduction + Inserting items + Deleting items *(in your preferred language)*
+* Introduction: https://leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/
+* Inserting Items: https://leetcode.com/explore/featured/card/fun-with-arrays/525/inserting-items-into-an-array/
+* Deleting Items: https://leetcode.com/explore/featured/card/fun-with-arrays/526/deleting-items-from-an-array/ 
 
-Note: Just go through the link(s), of your preferred language. 
+``` Note: Just go through the link(s), of your preferred language. ```
 
 C++ : https://www.programiz.com/cpp-programming/arrays 
 Java: https://www.programiz.com/java-programming/arrays  
 Python: https://pynative.com/python-accept-list-input-from-user/ , 
     https:// www.w3schools.com/python/python_arrays.asp 
 The above links will browse you through the programming aspects of 1-D arrays.
+
+
 DAY-2
 
 Searching for element in an array:
