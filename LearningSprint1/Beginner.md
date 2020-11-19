@@ -27,7 +27,7 @@ https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operatio
 
 # DAY-3
 
-**Two-pointer technique:<br/>**
+### **Two-pointer technique:<br/>**
 https://www.geeksforgeeks.org/two-pointers-technique/
 
 ### Practice question based on two pointer technique:
