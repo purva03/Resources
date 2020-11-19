@@ -15,7 +15,7 @@ For running your code:<br/>
                       - Sublime Text Editor 
                       - Code Blocks 
 <br/>
-Note: Check out Youtube Videos for more details, regarding the installation, etc. of the above IDE’s
+``` Note: Check out Youtube Videos for more details, regarding the installation, etc. of the above IDE’s ```
 <br/>
 
 ### Practice Questions: 
