@@ -15,8 +15,8 @@ For running your code:<br/>
                       - Sublime Text Editor 
                       - Code Blocks 
 <br/>
-``` Note: Check out Youtube Videos for more details, regarding the installation, etc. of the above IDE’s  ```
-<br/>
+``` Note: Check out Youtube Videos for more details, regarding the installation, etc. of the above IDE’s. ```
+
 
 ### Practice Questions: 
 1. Print “Hello World”
