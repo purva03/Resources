@@ -6,8 +6,8 @@ C++:
 https://www.w3schools.com/cpp/ <br/>
 (Just go through the "C++ Tutorial" Sub-Section, as of  now)<br/>
 2. Watch this videos first:<br/>
-https://youtu.be/bJ0n_B7TrnQ?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q<br/>
-
+https://youtu.be/bJ0n_B7TrnQ?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q
+<br/>
 For running your code:<br/> 
 1. Good Online Editor, that might be useful: https://www.onlinegdb.com/<br/>
 2. IDE(s), that can be installed on your PC’s: 
@@ -30,7 +30,6 @@ Start attempting questions on hackerrank :<br/>
 (under c++ language proficiency) <br/>
 https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp
 
-
 # DAY-2
 
 C++ (if..else conditional statements):<br/>
@@ -39,7 +38,7 @@ C++ (if..else conditional statements):<br/>
         2. https://www.programiz.com/cpp-programming/if-else 
 2. Watch this video for better understanding:<br/> https://youtu.be/6EuqroZibF0
 
-###Practice Questions:
+### Practice Questions:
 1. Write a program to find even odd numbers using if..else.
 2. Write a program to find the leap year.
 3. Write a program to check whether an alphabet is vowel or consonant.
@@ -48,7 +47,6 @@ C++ (if..else conditional statements):<br/>
 <br/>
 Continue practicing on Hackerrank<br/>
 (https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)
-
 
 # DAY-3
 
