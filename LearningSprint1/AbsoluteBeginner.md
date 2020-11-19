@@ -9,8 +9,8 @@ https://www.w3schools.com/cpp/ <br/>
 https://youtu.be/bJ0n_B7TrnQ?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q
 <br/>
 For running your code:<br/> 
-1. Good Online Editor, that might be useful: https://www.onlinegdb.com/<br/>
-2. IDE(s), that can be installed on your PC’s: 
+ 1. Good Online Editor, that might be useful: https://www.onlinegdb.com/<br/>
+ 2. IDE(s), that can be installed on your PC’s: 
                       - VS Code 
                       - Sublime Text Editor 
                       - Code Blocks 
