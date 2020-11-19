@@ -15,7 +15,7 @@ Recursion generally means calling the function, inside the same function. <br>
 We should have a Termination/Base Case because if there isn’t a base case, the process won’t terminate and the function will keep calling itself infinitely. 
 **(Must Watch)** Youtube Video Series (Playlist) on the "How and Where exactly Recursion  works?":<br/> https://www.youtube.com/playlist?list=PL_z_8CaSLPWeT1ffjiImo0sYTcnLzo-wY
 ### Questions:
-Problem 1: <br/> https://www.codechef.com/CCCLS001/problems/TRICOIN 
+Problem 1: <br/> https://www.codechef.com/CCCLS001/problems/TRICOIN <br/>
 
 ``` Note: Try solving it using only Binary Search, even if you have another correct approach in your mind. You can try it using multiple approaches, but make sure that you do it once by "Binary Search" Approach ```
 Problem 2:<br/>  https://www.codechef.com/CCCLS001/problems/TRISQ 
@@ -39,7 +39,7 @@ https://www.codechef.com/CCCLS001/problems/PRPR5
 Suggestion: Check out the Editorial of a Problem, only after trying and thinking upon the Problem, for at least 1.5 hrs. Also, if you aren’t able to solve it and you check out the editorial, please do try to follow and understand the editorial’s approach and try & submit a solution to the problem. Don’t leave the problem,  without making a submission. (These are suggestions, for practice.) 
 
 Problem 1: <br/>
-https://www.codechef.com/CCCLS001/problems/MINEAT
+https://www.codechef.com/CCCLS001/problems/MINEAT <br/>
 
 Problem 2: <br/>
 https://www.codechef.com/CCCLS001/problems/TRAVELAL
