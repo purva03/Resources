@@ -1,6 +1,5 @@
-DAY-1
-Absolute Beginners-Track
-(No coding Experience)
+# DAY-1
+## Absolute Beginners-Track (No coding Experience)
 
 C++:
 Documentation:
