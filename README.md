@@ -1,4 +1,5 @@
 # CODECHEF MUST RESOURCES
+![](img/Copy of College Chapters Logo - _Short Name_.png) 
 1.**Learning Sprint 1** <br/>
          * [Absolute Beginner](LearningSprint1/AbsoluteBeginner.md)<br/>
          * [Beginner](LearningSprint1/Beginner.md)<br/>
