@@ -19,15 +19,15 @@ The above links will browse you through the programming aspects of 1-D arrays.
 
 # DAY-2
 
-Searching for element in an array:<br/>
+1. Searching for element in an array:<br/>
 https://leetcode.com/explore/featured/card/fun-with-arrays/527/searching-for-items-in-an-array/<br/>
-In place operation(Array):<br/>
+2. In place operation(Array):<br/>
 https://leetcode.com/explore/featured/card/fun-with-arrays/511/in-place-operations/<br/>
-Conclusion(Array): <br/>https://leetcode.com/explore/featured/card/fun-with-arrays/523/conclusion/<br/>
+3. Conclusion(Array): <br/>https://leetcode.com/explore/featured/card/fun-with-arrays/523/conclusion/<br/>
 
 # DAY-3
 
-Two-pointer technique:<br/>
+**Two-pointer technique:<br/>**
 https://www.geeksforgeeks.org/two-pointers-technique/
 
 ### Practice question based on two pointer technique:
@@ -36,3 +36,4 @@ https://www.geeksforgeeks.org/two-pointers-technique/
 3. https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1
 4. https://leetcode.com/problems/container-with-most-water/
 
+Lots of problems that were given to you on Day1 and Day2 can be optimized using two pointer algorithm. Try to optimize your previous codes.
