@@ -27,13 +27,12 @@ Conclusion(Array): <br/>https://leetcode.com/explore/featured/card/fun-with-arra
 
 # DAY-3
 
-Two-pointer algorithm:<br/>
+Two-pointer technique:<br/>
 https://www.geeksforgeeks.org/two-pointers-technique/
 
-### Practice question on the basis of two pointer algorithm:
+### Practice question based on two pointer technique:
 1. https://leetcode.com/problems/two-sum/
 2. https://leetcode.com/problems/two-sum-ii-input-array-is-sorted
 3. https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1
 4. https://leetcode.com/problems/container-with-most-water/
 
-Lots of problems that were given to you on Day1 and Day2 can be optimized using two pointer algorithm. Try to optimize your previous codes.
