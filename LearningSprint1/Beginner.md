@@ -1,7 +1,7 @@
 # DAY-1
 ## Beginner-Track
 
-Topic: Arrays 
+### Topic: Arrays 
 
 Complete the first three parts: introduction + inserting items + deleting items (in your preferred language)
 https://leetcode.com/explore/featured/card/fun-with-arrays/521/introduction/
