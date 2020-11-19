@@ -18,6 +18,7 @@ We should have a Termination/Base Case because if there isn’t a base case, the
 Problem 1: <br/> https://www.codechef.com/CCCLS001/problems/TRICOIN <br/>
 
 ``` Note: Try solving it using only Binary Search, even if you have another correct approach in your mind. You can try it using multiple approaches, but make sure that you do it once by "Binary Search" Approach ``` <br/>
+
 Problem 2:<br/>  https://www.codechef.com/CCCLS001/problems/TRISQ <br/>
 
 ``` Note: Just for practice, solve it using "Recursion" only ```
