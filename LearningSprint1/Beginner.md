@@ -36,4 +36,3 @@ https://www.geeksforgeeks.org/two-pointers-technique/
 3. https://practice.geeksforgeeks.org/problems/find-triplets-with-zero-sum/1
 4. https://leetcode.com/problems/container-with-most-water/
 
-Lots of problems that were given to you on Day1 and Day2 can be optimized using two pointer algorithm. Try to optimize your previous codes.
