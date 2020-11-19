@@ -1,6 +1,6 @@
-Intermediate-Track
-Day 1
-Topic: Binary Search  : Has to be completed on day 1.
+#Intermediate-Track
+#Day 1
+###Topic: Binary Search  : Has to be completed on day 1.
 Binary search is the most popular and most widely used search algorithm. It is efficient and also one of the most commonly used techniques that are used to solve varying problems. 
 It only works on a sorted set of elements. To use Binary Search, the set/collection of elements must be sorted. 
 (Must Read) Good Blog to Understand it better, with its basic implementation:
