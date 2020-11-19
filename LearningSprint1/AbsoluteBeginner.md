@@ -3,10 +3,11 @@
 
 C++:
 Documentation:<br />
-https://www.w3schools.com/cpp/ 
-(Just go through the "C++ Tutorial" Sub-Section, as of  now)
-Watch this videos first: https://youtu.be/bJ0n_B7TrnQ?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q
-
+https://www.w3schools.com/cpp/ <br/>
+(Just go through the "C++ Tutorial" Sub-Section, as of  now)<br/>
+Watch this videos first:<br/>
+https://youtu.be/bJ0n_B7TrnQ?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q<br/>
+<br/>
 For running your code: 
 Good Online Editor, that might be useful: onlinegdb.com 
 IDE(s), that can be installed on your PC’s: 
