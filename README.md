@@ -1,5 +1,5 @@
 
-<img src="img/Copy of College Chapters Logo - _Short Name_.png" width=200 height=200 align="center">
+<img src="img/Copy of College Chapters Logo - _Short Name_.png" width=200 height=200 align="center"> </img>
 <br/>
 # CODECHEF MUST RESOURCES 
 1.**Learning Sprint 1** <br/>
