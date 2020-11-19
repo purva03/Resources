@@ -15,10 +15,10 @@ For running your code:<br/>
                       - Sublime Text Editor 
                       - Code Blocks 
 <br/>
-Note: Check out Youtube Videos for more details, regarding the installation, etc. of the above IDE’s.
+```Note: Check out Youtube Videos for more details, regarding the installation, etc. of the above IDE’s.```
 
 
-### Practice Questions: 
+### Practice Questions:   
 1. Print “Hello World”
 2. Take name as input from user and print it.
 3. Program to print sum of two numbers.
@@ -36,7 +36,7 @@ C++ (if..else conditional statements):<br/>
 1. Documentation: <br/>
         1. https://www.w3schools.com/cpp/cpp_conditions.asp
         2. https://www.programiz.com/cpp-programming/if-else 
-2. Watch this video for better understanding:<br/> https://youtu.be/6EuqroZibF0
+2. Watch this video for better understanding: https://youtu.be/6EuqroZibF0
 
 ### Practice Questions:
 1. Write a program to find even odd numbers using if..else.
@@ -51,7 +51,8 @@ Continue practicing on Hackerrank<br/>
 # DAY-3
 
 Continue practicing on Hackerrank and try to collect as many stars as you can.<br/>
-(https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)<br/>
+(https://www.hackerrank.com/domains/cpp?filters%5Bstatus%5D%5B%5D=unsolved&badge_type=cpp)<br/>  
+
 And try to solve the exercises of w3school tutorials for C++ and these questions are based on strings. Please go through all the links.
 1. https://www.w3schools.com/cpp/cpp_strings.asp
 2. https://www.w3schools.com/cpp/cpp_strings_concat.asp
