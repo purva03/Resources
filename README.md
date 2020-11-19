@@ -4,4 +4,3 @@
       2. [Beginner](LearningSprint1/Beginner.md)
       3. [Intermediate](LearningSprint1/Intermediate.md)
       4. [Advanced](LearningSprint1/Advanced.md)
-2. Extra Resources 
