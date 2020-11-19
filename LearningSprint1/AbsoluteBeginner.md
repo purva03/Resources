@@ -2,10 +2,10 @@
 ## Absolute Beginners-Track (No coding Experience)
 
 C++:
-Documentation:<br />
+1. Documentation:<br />
 https://www.w3schools.com/cpp/ <br/>
 (Just go through the "C++ Tutorial" Sub-Section, as of  now)<br/>
-Watch this videos first:<br/>
+2. Watch this videos first:<br/>
 https://youtu.be/bJ0n_B7TrnQ?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q<br/>
 <br/>
 For running your code: 
