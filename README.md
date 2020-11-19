@@ -1,2 +1,2 @@
 # Resources
-[Learning Sprint Beginner](Beginner.md)
+[Learning Sprint Beginner](LearningSprint1/Beginner.md)
