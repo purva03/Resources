@@ -1,2 +1,2 @@
 # Resources
-[Learning Sprint](LearningSprint1)
+[Learning Sprint 1](LearningSprint1)
