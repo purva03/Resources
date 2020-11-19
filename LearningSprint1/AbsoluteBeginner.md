@@ -8,15 +8,17 @@ https://www.w3schools.com/cpp/ <br/>
 2. Watch this videos first:<br/>
 https://youtu.be/bJ0n_B7TrnQ?list=PLIY8eNdw5tW_o8gsLqNBu8gmScCAqKm2Q<br/>
 <br/>
-For running your code: 
-Good Online Editor, that might be useful: onlinegdb.com 
-IDE(s), that can be installed on your PC’s: 
-             - VS Code 
+For running your code:<br/> 
+1. Good Online Editor, that might be useful: https://www.onlinegdb.com/
+2. IDE(s), that can be installed on your PC’s: 
+                      - VS Code 
                       - Sublime Text Editor 
                       - Code Blocks 
+<br/>
 Note: Check out Youtube Videos for more details, regarding the installation, etc. of the above IDE’s
+<br/>
 
-Practice Questions: 
+### Practice Questions: 
 Ques1. Print “Hello World”
 Ques2. Take name as input from user and print it.
 Ques3. Program to print sum of two numbers.
