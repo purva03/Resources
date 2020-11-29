@@ -16,3 +16,4 @@
          
 **Topics**</br>
          > [Recursion](Recursion/)</br> 
+         > [Binary Tree](BinaryTree/)</br>
