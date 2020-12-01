@@ -15,7 +15,7 @@
          > [Set 1](PracticeProblems/Set1.md)<br/>
          
 **Topics**</br>
-         > [Linked List](Linked List/)</br>
+         > [Linked List](LinkedList/)</br>
          > [Queue](Queue/)</br>
          > [Recursion](Recursion/)</br> 
          > [Binary Tree](BinaryTree/)</br>
