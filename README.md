@@ -20,5 +20,5 @@
          > [Recursion](Recursion/)</br> 
          > [Binary Tree](BinaryTree/)</br>
 **Solutions**<br/>
-         > [Leetcode Solution](LeetcodeSolutions/)</br>
+         > [Leetcode Solutions](LeetcodeSolutions/)</br>
     
