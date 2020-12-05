@@ -19,6 +19,8 @@
          > [Queue](Queue/)</br>
          > [Recursion](Recursion/)</br> 
          > [Binary Tree](BinaryTree/)</br>
+         > [Sorting](Sorting/)</br>
 **Solutions**<br/>
          > [Leetcode Solutions](LeetcodeSolutions/)</br>
+         > [CodeChef Solutions](CodeChefSolutions/)</br>
     
